@@ -1,0 +1,21 @@
+# bioinformatics data (NEVER track)
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.bw
+*.bigwig
+*.bt2
+*.fai
+*.dict
+
+# folders
+data/
+results/
+output/
+Genome-wide_association_between_YAP-TAZ-TEAD_and_AP-1_at_enhancers_drives_oncogenic_growth/data/
+
+# OS junk
+.DS_Store
