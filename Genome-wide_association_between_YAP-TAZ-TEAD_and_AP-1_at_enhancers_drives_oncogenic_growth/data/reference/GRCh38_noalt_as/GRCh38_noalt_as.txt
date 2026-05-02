@@ -1,0 +1,11 @@
+GRCh38_noalt_as.1.bt2
+
+GRCh38_noalt_as.2.bt2
+
+GRCh38_noalt_as.3.bt2
+
+GRCh38_noalt_as.4.bt2
+
+GRCh38_noalt_as.rev.1.bt2
+
+GRCh38_noalt_as.rev.2.bt2
